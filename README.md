@@ -1,4 +1,4 @@
-# Clintside JS Testing
+# Clientside JS Testing
 
 General testing frameworks overview
 
